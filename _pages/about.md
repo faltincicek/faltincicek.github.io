@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-#About Me
-#======
 I'm a PhD candidate in experimental condensed matter physics.

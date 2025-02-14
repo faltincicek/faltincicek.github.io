@@ -1,13 +1,13 @@
 ---
-title: "Structural Evolution of Organic Matter in Deep Shales by Spectroscopy $$^{1}$$H and 13C Nuclear Magnetic Resonance, X-ray Photoelectron Spectroscopy, and Fourier Transform Infrared) Analysis"
+title: "Structural Evolution of Organic Matter in Deep Shales by Spectroscopy $$^{1}$$H and $$^{13}$$C Nuclear Magnetic Resonance, X-ray Photoelectron Spectroscopy, and Fourier Transform Infrared) Analysis"
 collection: publications
 category: manuscripts
 permalink: /publication/2020-02-07-petroleum-paper-2
-excerpt: 'This paper is a result of our collaborations with people from the Petroleum Engineering Department.'
+excerpt: 'This paper is a result of our collaboration with our colleagues from the UND Department of Petroleum Engineering.'
 date: 2020-02-07
 venue: 'Energy & Fuels'
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acs.energyfuels.9b03851'
-#citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-Abstract:
+**Abstract:**
+
 Amorphous organic matter in geomaterials also known as kerogen undergoes significant alteration in chemical structure during thermal maturation, which is characterized using a combination of solid-state 1H and 13C nuclear magnetic resonance (NMR), X-ray photoelectron spectroscopy (XPS), and Fourier transform infrared (FTIR) techniques. For this study, four kerogen samples (type II) from the Bakken Formation were selected on the basis of the differences in their thermal maturity as well as representing the pre-oil and oil window stages as measured through organic petrology and bulk geochemical screening of the samples using programmed pyrolysis. Later, organic matter was extracted from selected aliquots for chemical spectroscopy. Results documented a systematic structural change in these four samples, where the ratio of CH3/CH2 increased when the maturity increases, along with the presence of a shorter aliphatic chain length. Furthermore, the aromatic carbon structure becomes more abundant in higher maturities and oil window stages quantified by 13C NMR, XPS, and FTIR. Also, the rate of increase in aromaticity demonstrates a considerable rift between the pre-oil window and oil window stages, as verified through bulk geochemical screening of the samples with Rock-Eval 6 pyrolysis hydrogen index. Notably, it is found that kerogen maturation causes the relatively bulky oxygen-related carbon compounds to reduce at the early stages of maturation (pre-oil window), followed by the concentration of such compounds at higher maturity stages. Next, the ratio of carbonyl/carboxyl functional groups to aromatic carbon shows an increase in the oil window stage, while a reduction of sulfur in higher maturities was detected mainly in the SOx forms. Finally, the nitrogen content of the samples is reported in a variety of forms, which varied regardless of the thermal maturation. It is concluded that the structural and chemical changes that occur in the organic matter involve defunctionalization of heteroatom functional groups, coupled with an increase in cross-linked carbon in the residual remaining kerogen.

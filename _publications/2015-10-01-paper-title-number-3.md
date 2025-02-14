@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Structural Evolution of Organic Matter in Deep Shales by Spectroscopy (\\(^1\\)H and 13C Nuclear Magnetic Resonance, X-ray Photoelectron Spectroscopy, and Fourier Transform Infrared) Analysis"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3

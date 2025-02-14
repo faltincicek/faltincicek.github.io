@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Welcome to Furkan's Personal Webpage"
+title: "Furkan M. Altincicek"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Title
+About Me
 ======
-Context
+I'm a PhD candidate in experimental condensed matter physics.

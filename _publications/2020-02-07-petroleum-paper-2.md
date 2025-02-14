@@ -2,7 +2,7 @@
 title: "Structural Evolution of Organic Matter in Deep Shales by Spectroscopy $$^{1}$$H and 13C Nuclear Magnetic Resonance, X-ray Photoelectron Spectroscopy, and Fourier Transform Infrared) Analysis"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-02-07-petroleum-paper-3
+permalink: /publication/2020-02-07-petroleum-paper-2
 excerpt: 'This paper is a result of our collaborations with people from the Petroleum Engineering Department.'
 date: 2020-02-07
 venue: 'Energy & Fuels'

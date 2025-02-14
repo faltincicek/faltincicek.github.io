@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Furkan M. Altincicek"
+title: "Home"
+heading: "About Me"
 author_profile: true
 redirect_from: 
   - /about/

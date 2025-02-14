@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "About Me"
 heading: "About Me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
+#About Me
+#======
 I'm a PhD candidate in experimental condensed matter physics.

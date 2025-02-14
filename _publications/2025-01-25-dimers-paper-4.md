@@ -3,7 +3,7 @@ title: "Electronic structures of atomic silicon dimer wires as a function of len
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-25-dimers-paper-4
-excerpt: 'This is one of the two main papers of my PhD. Here we studied atomic wires made one atom at a time.'
+excerpt: 'This is one of the two main papers of my PhD. Here we studied atomic wires that were made one atom at a time.'
 date: 2025-01-25
 venue: 'Nanotechnology'
 paperurl: 'https://iopscience.iop.org/article/10.1088/1361-6528/adafae'

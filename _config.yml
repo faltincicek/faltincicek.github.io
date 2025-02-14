@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Furkan M. Altincicek"
-description              : &description "personal description"
+description              : &description "Furkan's personal description"
 url                      : https://faltincicek.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -29,23 +29,23 @@ author:
   location         : "Edmonton, AB"
   employer         : "University of Alberta"
   uri              : # URL
-  email            : "faltincicek[at]gmail[dot]com" 
+  email            : "faltincicek@gmail.com" 
 
   # Academic websites
-  arxiv            : "https://arxiv.org/search/cond-mat?searchtype=author&query=Altincicek,+F+M"
+  arxiv            : #"https://arxiv.org/search/cond-mat?searchtype=author&query=Altincicek,+F+M"
   googlescholar    : "https://scholar.google.com/citations?user=yM7-EMMAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-0444-8200"
+  orcid            : #"https://orcid.org/0000-0003-0444-8200"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Furkan-Altincicek"
+  researchgate     : #"https://www.researchgate.net/profile/Furkan-Altincicek"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "faltincicek"
+  github           : #"faltincicek"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

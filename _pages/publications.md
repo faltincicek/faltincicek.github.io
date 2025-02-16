@@ -8,7 +8,7 @@ author_profile: true
 You can also find my most up-to-date publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
 
 ### Electronic structures of atomic silicon dimer wires as a function of length
-<span style="font-size: 10px;">**Altincicek, F. M.**; Livadaru, L.; Leon, C. C.; Chutora, T.; Yuan, M.; Achal, R.; Croshaw, J.; Pitters J.; Wolkow, R. *Nanotechnology*, 2025. DOI: [10.48550/arXiv.2411.10625](doi.org/10.48550/arXiv.2411.10625)</span>
+<span style="font-size: 10px;">**Altincicek, F. M.**; Livadaru, L.; Leon, C. C.; Chutora, T.; Yuan, M.; Achal, R.; Croshaw, J.; Pitters J.; Wolkow, R. *Nanotechnology*, 2025. DOI: [10.48550/arXiv.2411.10625](doi.org/10.1088/1361-6528/adafae)</span>
 
 ### One-Pot Synthesis of Graphene Quantum Dots Using Humic Acid and Its Application for Copper (II) Ion Detection
 <span style="font-size: 10px;">Liu, X.; Han, J.; Hou, X.; **Altincicek, F.**; Oncel, N.; Pierce, D.; Wu, X.; Zhao, J. X. *Journal of Materials* Science 2020, 56, 4991–5005. DOI: [10.1007/s10853-020-05583-6](doi.org/10.1007/s10853-020-05583-6)</span>

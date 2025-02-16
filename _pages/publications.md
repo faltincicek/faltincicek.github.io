@@ -7,11 +7,11 @@ author_profile: true
 
 You can also find my most up-to-date publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
 
-### Electronic structures of atomic silicon dimer wires as a function of length
-<span style="font-size: 10px;">**Altincicek, F. M.**; Livadaru, L.; Leon, C. C.; Chutora, T.; Yuan, M.; Achal, R.; Croshaw, J.; Pitters J.; Wolkow, R. *Nanotechnology*, 2025. DOI: [10.48550/arXiv.2411.10625](doi.org/10.1088/1361-6528/adafae)</span>
+Electronic structures of atomic silicon dimer wires as a function of length
+**Altincicek, F. M.**; Livadaru, L.; Leon, C. C.; Chutora, T.; Yuan, M.; Achal, R.; Croshaw, J.; Pitters J.; Wolkow, R. *Nanotechnology*, 2025. DOI: [10.48550/arXiv.2411.10625](doi.org/10.1088/1361-6528/adafae)
 
 ### One-Pot Synthesis of Graphene Quantum Dots Using Humic Acid and Its Application for Copper (II) Ion Detection
-<span style="font-size: 10px;">Liu, X.; Han, J.; Hou, X.; **Altincicek, F.**; Oncel, N.; Pierce, D.; Wu, X.; Zhao, J. X. *Journal of Materials* Science 2020, 56, 4991–5005. DOI: [10.1007/s10853-020-05583-6](doi.org/10.1007/s10853-020-05583-6)</span>
+<span style="font-size: 12px;">Liu, X.; Han, J.; Hou, X.; **Altincicek, F.**; Oncel, N.; Pierce, D.; Wu, X.; Zhao, J. X. *Journal of Materials* Science 2020, 56, 4991–5005. DOI: [10.1007/s10853-020-05583-6](doi.org/10.1007/s10853-020-05583-6)</span>
 
 ### Structural Evolution of Organic Matter in Deep Shales by Spectroscopy ($$^{1}$$H and $$^{13}$$C Nuclear Magnetic Resonance, X-Ray Photoelectron Spectroscopy, and Fourier Transform Infrared) Analysis
 <span style="font-size: 10px;">Lee, H.; Oncel, N.; Liu, B.; Kukay, A.; **Altincicek, F.**; Varma, R. S.; Shokouhimehr, M.; Ostadhassan, M. *Energy & Fuels* 2020, 34, 2807–2815. DOI: [10.1021/acs.energyfuels.9b03851](doi.org/10.1021/acs.energyfuels.9b03851)</span>

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+#title: "Home"
 #heading: "About Me"
 author_profile: true
 redirect_from: 

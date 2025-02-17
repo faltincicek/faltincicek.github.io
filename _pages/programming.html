@@ -10,6 +10,104 @@ Here are some of the projects I've worked on. Languages I most commonly use are:
 <ul style="list-style-type: disc;">
   <li>
     Numerical solution of Pöschl-Teller potential (hyperbolic) within the Schrödinger Equation to simulate atomic wires.<br>
+    <button class="collapsible">Show Image</button>
+    <div class="content">
+      <img src="https://faltincicek.github.io/images/pt_model.png" alt="PT Model" style="width: 700px; height: auto;">
+    </div>
+  </li>
+  
+  <li>
+    Fourier transform analysis of atomic wires' electronic structures that show hole band and fit to calculate the effective mass.<br>
+    <button class="collapsible">Show Image</button>
+    <div class="content">
+      <img src="https://faltincicek.github.io/images/ft.png" alt="Fourier Analysis" style="width: 700px; height: auto;">
+    </div>
+  </li>
+    
+  <li>
+    Statistical analysis on telegraph noise of atomic switchers to investigate the randomness level.<br>
+    <button class="collapsible">Show Image</button>
+    <div class="content">
+      <img src="https://faltincicek.github.io/images/telegraph.png" alt="Telegraph Noise" style="width: 700px; height: auto;">
+    </div>
+  </li>
+  
+  <li>
+    Cryostat's helium level and sample stage's temperature reader written for Lakeshore Model 336 Temperature Controller.<br>
+    <button class="collapsible">Show Image</button>
+    <div class="content">
+      <img src="https://faltincicek.github.io/images/500x300.png" alt="Cryostat" style="width: 300px; height: auto;">
+    </div>
+  </li>
+
+  <li>
+    Pressure reader of multi UHV chamber system written for Agilent XGS-600 pressure gauge.<br>
+    <button class="collapsible">Show Image</button>
+    <div class="content">
+      <img src="https://faltincicek.github.io/images/500x300.png" alt="Pressure Reader" style="width: 300px; height: auto;">
+    </div>
+  </li>
+</ul>
+
+<script>
+    var coll = document.getElementsByClassName("collapsible");
+    for (let i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.display === "block") {
+                content.style.display = "none";
+            } else {
+                content.style.display = "block";
+            }
+        });
+    }
+</script>
+
+<style>
+    .collapsible {
+        background-color: #f1f1f1;
+        color: #444;
+        cursor: pointer;
+        padding: 10px;
+        width: 100%;
+        border: none;
+        text-align: left;
+        outline: none;
+        font-size: 15px;
+        margin-top: 5px;
+    }
+
+    .active, .collapsible:hover {
+        background-color: #ccc;
+    }
+
+    .content {
+        padding: 0 18px;
+        display: none;
+        overflow: hidden;
+        background-color: #f9f9f9;
+    }
+
+    img {
+        max-width: 100%; /* Responsive image */
+        height: auto;
+    }
+</style>
+
+{% comment %}
+---
+layout: archive
+title: "Programming Experiences"
+permalink: /programming/
+author_profile: true
+---
+
+Here are some of the projects I've worked on. Languages I most commonly use are: Python, Matlab, Labview, HTML, Latex.
+
+<ul style="list-style-type: disc;">
+  <li>
+    Numerical solution of Pöschl-Teller potential (hyperbolic) within the Schrödinger Equation to simulate atomic wires.<br>
     <img src="https://faltincicek.github.io/images/pt_model.png" alt="PT Model" style="width: 700px; height: auto;">
   </li>
   
@@ -33,3 +131,4 @@ Here are some of the projects I've worked on. Languages I most commonly use are:
     <img src="https://faltincicek.github.io/images/500x300.png" alt="PT Model" style="width: 300px; height: auto;">
   </li>
 </ul>
+{% endcomment %}
